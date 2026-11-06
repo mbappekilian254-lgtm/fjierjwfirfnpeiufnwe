@@ -1,0 +1,6 @@
+{
+  "name": "Innovator Portfolio | Tech & IoT",
+  "description": "Zamonaviy shaxsiy IT, IoT, ESP32 va Frontend dasturlash portfolio veb-sayti. Learning today. Building tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
